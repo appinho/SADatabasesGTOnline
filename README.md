@@ -1,7 +1,17 @@
 # SADatabasesGTOnline
 
-https://classroom.udacity.com/courses/ud150
+## Demo
 
-https://github.com/HShang7/OMCSC-6460_Project/tree/e55d75b378839dc1690a11689453c71f06410fb3/phase%202-implementation
+![Screenshot](docs/profile.png)
+
+## Udacity course
+
+https://www.udacity.com/course/database-systems-concepts-design--ud150
+
+## Study notes
+
+https://docs.google.com/document/d/1BPgQ-IfgU_jfDsqtB2EpbleAhGite7w2No5-tEnY5Sg/edit
+
+## Other resources
 
 https://github.com/xintao0202/Gatech_Database-system.git
